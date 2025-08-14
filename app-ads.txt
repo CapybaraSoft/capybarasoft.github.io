@@ -1,8 +1,1 @@
-# app-ads.txt
-# Last updated: 2025-08-14
-# Google AdMob / Google Ad Manager
 google.com, pub-5182724362536156, DIRECT, f08c47fec0942fa0
-
-# ---- Examples (leave commented out or replace with your own IDs) ----
-# exampleadnetwork.com, YOUR-ACCOUNT-ID, DIRECT
-# exampleadnetwork.com, YOUR-ACCOUNT-ID, RESELLER, CERT-AUTH-ID
